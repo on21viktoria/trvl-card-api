@@ -17,39 +17,287 @@
       "best_frontend_framework": "React"
     }
   ],
-  "polls": [
+  "images": [
     {
-      "question": "Favourite Music Genre?",
-      "options": [
-        "Rock",
-        "Pop",
-        "Country",
-        "Rap",
-        "Jazz",
-        "Hip Hop",
-        "RNB",
-        "None",
-        "Depends"
-      ]
-    },
-    {
-      "question": "Preferred Programming Language?",
-      "options": [
-        "Java",
-        "C",
-        "C++",
-        "C#",
-        "Javascript",
-        "Python",
-        "Kotlin"
-      ]
-    },
-    {
-      "question": "Better Frontend JS Framework?",
-      "options": [
-        "React",
-        "Vue",
-        "Angular"
+      "cities": [
+        {
+          "id": "berlin",
+          "name": "Berlin",
+          "folder": "images-berlin_72dpi",
+          "images": [
+            {
+              "id": "ampel",
+              "name": "Ampel_Philippe-Oursel_72dpi.jpg"
+            },
+            {
+              "id": "berliner-mauer",
+              "name": "Berliner-Mauer_Mateo-Krossler_72dpi.jpg"
+            },
+            {
+              "id": "brandenburger-tor",
+              "name": "Brandenburger-Tor_Hakon-Sataoen_72dpi.jpg"
+            },
+            {
+              "id": "checkpoint-charlie",
+              "name": "Checkpoint-Charlie_Santiago-flores_72dpi.jpg"
+            },
+            {
+              "id": "fernsehturm",
+              "name": "Fernsehturm_Camilla-Bundgaard_72dpi.jpg"
+            },
+            {
+              "id": "museumsinsel",
+              "name": "Museumsinsel_Christian-Ladewig_72dpi.jpg"
+            },
+            {
+              "id": "olympiastadion",
+              "name": "Olympiastadion_Samuel-Svec_72dpi.jpg"
+            },
+            {
+              "id": "reichstag",
+              "name": "Reichstag_Fionn-Grosseh_72dpi.jpg"
+            },
+            {
+              "id": "standtansicht",
+              "name": "Stadtansicht_Florian-Wehde_72dpi.jpg"
+            },
+            {
+              "id": "stadtansicht2",
+              "name": "Stadtansicht2_Stefan-Widua_72dpi.jpg"
+            },
+            {
+              "id": "u-bahn",
+              "name": "U-Bahn_Soroush-Karimi_72dpi.jpg"
+            }
+          ]
+        },
+        {
+          "id": "hamburg",
+          "name": "Hamburg",
+          "folder": "images-hamburg_72dpi",
+          "images": [
+            {
+              "id": "hamburg1",
+              "name": "Hamburg_43625091.jpeg"
+            },
+            {
+              "id": "hamburg2",
+              "name": "Hamburg_57038016.jpeg"
+            },
+            {
+              "id": "hamburg3",
+              "name": "Hamburg_128585799.jpeg"
+            },
+            {
+              "id": "hamburg4",
+              "name": "Hamburg_139948950.jpeg"
+            },
+            {
+              "id": "hamburg5",
+              "name": "Hamburg_152735034.jpeg"
+            },
+            {
+              "id": "hamburg6",
+              "name": "Hamburg_316956027.jpeg"
+            }
+          ]
+        },
+        {
+          "id": "heidelberg",
+          "name": "Heidelberg",
+          "folder": "images-heidelberg_72dpi",
+          "images": [
+            {
+              "id": "heidelberg1",
+              "name": "Heidelberg_172216125.jpeg"
+            },
+            {
+              "id": "heidelberg2",
+              "name": "Heidelberg_282847215.jpeg"
+            },
+            {
+              "id": "heidelberg3",
+              "name": "Heidelberg_287960169.jpeg"
+            },
+            {
+              "id": "heidelberg4",
+              "name": "Heidelberg_314522208.jpeg"
+            }
+          ]
+        },
+        {
+          "id": "karlsruhe",
+          "name": "Karlsruhe",
+          "folder": "images-karlsruhe_72dpi",
+          "images": [
+            {
+              "id": "karlsruhe1",
+              "name": "Karlsruhe_97134923.jpeg"
+            },
+            {
+              "id": "karlsruhe2",
+              "name": "Karlsruhe_107847681.jpeg"
+            },
+            {
+              "id": "karlsruhe3",
+              "name": "Karlsruhe_201271229.jpeg"
+            },
+            {
+              "id": "karlsruhe4",
+              "name": "Karlsruhe_395590535.jpeg"
+            },
+            {
+              "id": "karlsruhe5",
+              "name": "Karlsruhe_489449318.jpeg"
+            }
+          ]
+        },
+        {
+          "id": "koeln",
+          "name": "Köln",
+          "folder": "images-koeln_72dpi",
+          "images": [
+            {
+              "id": "koeln1",
+              "name": "Koeln_30192046.jpeg"
+            },
+            {
+              "id": "koeln2",
+              "name": "Koeln_120809336.jpeg"
+            },
+            {
+              "id": "koeln3",
+              "name": "Koeln_142173094.jpeg"
+            },
+            {
+              "id": "koeln4",
+              "name": "Koeln_170192054.jpeg"
+            },
+            {
+              "id": "koeln5",
+              "name": "Koeln_251826193.jpeg"
+            }
+          ]
+        },
+        {
+          "id": "mannheim",
+          "name": "Mannheim",
+          "folder": "images-mannheim_72dpi",
+          "images": [
+            {
+              "id": "mannheim1",
+              "name": "Mannheim_38408106.jpeg"
+            },
+            {
+              "id": "mannheim2",
+              "name": "Mannheim_116624575.jpeg"
+            },
+            {
+              "id": "mannheim3",
+              "name": "Mannheim_280067788.jpeg"
+            },
+            {
+              "id": "mannheim4",
+              "name": "Mannheim_280067788.jpeg"
+            }
+          ]
+        },
+        {
+          "id": "mosbach",
+          "name": "Mosbach",
+          "folder": "images-mosbach_72dpi",
+          "images": [
+            {
+              "id": "mosbach1",
+              "name": "Mosbach_206700603.jpeg"
+            },
+            {
+              "id": "mosbach2",
+              "name": "Mosbach_315686175.jpeg"
+            },
+            {
+              "id": "mosbach3",
+              "name": "Mosbach_463480456.jpeg"
+            }
+          ]
+        },
+        {
+          "id": "muenchen",
+          "name": "München",
+          "folder": "images-muenchen_72dpi",
+          "images": [
+            {
+              "id": "muenchen1",
+              "name": "Muenchen_49661244.jpeg"
+            },
+            {
+              "id": "muenchen2",
+              "name": "Muenchen_70535031.jpeg"
+            },
+            {
+              "id": "muenchen3",
+              "name": "Muenchen_187067448.jpeg"
+            },
+            {
+              "id": "muenchen4",
+              "name": "Muenchen_206386682.jpeg"
+            },
+            {
+              "id": "muenchen5",
+              "name": "Muenchen_215825149.jpeg"
+            },
+            {
+              "id": "muenchen6",
+              "name": "Muenchen_246832069.jpeg"
+            }
+          ]
+        },
+        {
+          "id": "stuttgart",
+          "name": "Stuttgart",
+          "folder": "images-stuttgart_72dpi",
+          "images": [
+            {
+              "id": "stuttgart1",
+              "name": "Stuttgart_39472750.jpeg"
+            },
+            {
+              "id": "stuttgart2",
+              "name": "Stuttgart_246456316.jpeg"
+            },
+            {
+              "id": "stuttgart3",
+              "name": "Stuttgart_296612504.jpeg"
+            },
+            {
+              "id": "stuttgart4",
+              "name": "Stuttgart_304557577.jpeg"
+            },
+            {
+              "id": "stuttgart5",
+              "name": "Stuttgart_329362632.jpeg"
+            }
+          ]
+        },
+        {
+          "id": "wuerzburg",
+          "name": "Würzburg",
+          "folder": "images-wuerzburg_72dpi",
+          "images": [
+            {
+              "id": "wuerzburg1",
+              "name": "Wuerzburg_71827480.jpeg"
+            },
+            {
+              "id": "wuerzburg1",
+              "name": "Wuerzburg_170627925.jpeg"
+            },
+            {
+              "id": "wuerzburg1",
+              "name": "Wuerzburg_276622665.jpeg"
+            }
+          ]
+        }
       ]
     }
   ]
